@@ -1,0 +1,1 @@
+const String staticAssets ="asstes/images";
